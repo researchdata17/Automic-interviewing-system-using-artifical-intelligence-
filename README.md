@@ -8,10 +8,15 @@ Name of the product is AI organization Joko.
 
 World is shifting to Artificial intelligent products as these products are fully automatic. Organizations will not need more man power for their organization like they don’t need any person for just to enter or exit a person record. Receptionist can also be relax by using simple AI product that greet vistor and have a check on last visit for interview. Organization get relax for short listing candidates.  
 
-Main Features of this Projects are :
+**Main research Features of this Projects are :**
+
 -Automated Gender Class classification
+
 -Emotion and confidence level checking using speech 
+
 -Question and answer generation and evaluation relaed to domain
+
+-Intial Screening and Final interviewing screening
 
 **LANGUAGES**
 
